@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'webapp-forsqldatabase'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12E6412BB83640D5A0B17FDE9774994E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_117B99D5D0FF4FD3A55B9304F734FF7F }}
           package: .
